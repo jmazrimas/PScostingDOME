@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<modelinterface type="DomeModelInterface" id="79ae9e0b-df5f-1004-84c6-a0f874d5f0ab" name="Default Interface">
+    <interfaceinfo>
+        <version>0.0.1</version>
+        <defaultinterface/>
+    </interfaceinfo>
+    <mappingsandintermediates>
+        <mappings>
+            <interfacemappings>
+                <mappedParameter name="contactInfo" idRef="79ae9e69-df5f-1004-84c6-a0f874d5f0ab">
+                    <parameter name="contactInfo" idRef="79ae9e67-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab"/>
+                </mappedParameter>
+                <mappedParameter name="companyName" idRef="79ae9e6f-df5f-1004-84c6-a0f874d5f0ab">
+                    <parameter name="companyName" idRef="79ae9e6d-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab"/>
+                </mappedParameter>
+                <mappedParameter name="inputTemplate" idRef="79ae9e72-df5f-1004-84c6-a0f874d5f0ab">
+                    <parameter name="inputTemplate" idRef="79ae9e70-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab"/>
+                </mappedParameter>
+                <mappedParameter name="outputFile" idRef="79ae9e19-df5f-1004-84c6-a0f874d5f0ab">
+                    <parameter name="outputFile" idRef="79ae9e17-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab"/>
+                </mappedParameter>
+                <mappedParameter name="inputFile" idRef="79ae9e16-df5f-1004-84c6-a0f874d5f0ab">
+                    <parameter name="inputFile" idRef="79ae9e14-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab"/>
+                </mappedParameter>
+                <mappedParameter name="expireDate" idRef="79ae9e6c-df5f-1004-84c6-a0f874d5f0ab">
+                    <parameter name="expireDate" idRef="79ae9e6a-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab"/>
+                </mappedParameter>
+                <mappedParameter name="companyId" idRef="79ae9e60-df5f-1004-84c6-a0f874d5f0ab">
+                    <parameter name="companyId" idRef="79ae9e5e-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab"/>
+                </mappedParameter>
+                <mappedParameter name="email" idRef="79ae9e63-df5f-1004-84c6-a0f874d5f0ab">
+                    <parameter name="email" idRef="79ae9e61-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab"/>
+                </mappedParameter>
+                <mappedParameter name="displayName" idRef="79ae9e5d-df5f-1004-84c6-a0f874d5f0ab">
+                    <parameter name="displayName" idRef="79ae9e5b-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab"/>
+                </mappedParameter>
+                <mappedParameter name="companyVPC" idRef="79ae9e75-df5f-1004-84c6-a0f874d5f0ab">
+                    <parameter name="companyVPC" idRef="79ae9e73-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab"/>
+                </mappedParameter>
+                <mappedParameter name="authToken" idRef="79ae9e66-df5f-1004-84c6-a0f874d5f0ab">
+                    <parameter name="authToken" idRef="79ae9e64-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab"/>
+                </mappedParameter>
+                <mappedParameter name="inputTemplate" idRef="79ae9e71-df5f-1004-84c6-a0f874d5f0ab">
+                    <parameter name="inputTemplate" idRef="79ae9e70-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab"/>
+                </mappedParameter>
+                <mappedParameter name="companyVPC" idRef="79ae9e74-df5f-1004-84c6-a0f874d5f0ab">
+                    <parameter name="companyVPC" idRef="79ae9e73-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab"/>
+                </mappedParameter>
+                <mappedParameter name="outputFile" idRef="79ae9e18-df5f-1004-84c6-a0f874d5f0ab">
+                    <parameter name="outputFile" idRef="79ae9e17-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab"/>
+                </mappedParameter>
+                <mappedParameter name="contactInfo" idRef="79ae9e68-df5f-1004-84c6-a0f874d5f0ab">
+                    <parameter name="contactInfo" idRef="79ae9e67-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab"/>
+                </mappedParameter>
+                <mappedParameter name="expireDate" idRef="79ae9e6b-df5f-1004-84c6-a0f874d5f0ab">
+                    <parameter name="expireDate" idRef="79ae9e6a-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab"/>
+                </mappedParameter>
+                <mappedParameter name="email" idRef="79ae9e62-df5f-1004-84c6-a0f874d5f0ab">
+                    <parameter name="email" idRef="79ae9e61-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab"/>
+                </mappedParameter>
+                <mappedParameter name="companyName" idRef="79ae9e6e-df5f-1004-84c6-a0f874d5f0ab">
+                    <parameter name="companyName" idRef="79ae9e6d-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab"/>
+                </mappedParameter>
+                <mappedParameter name="authToken" idRef="79ae9e65-df5f-1004-84c6-a0f874d5f0ab">
+                    <parameter name="authToken" idRef="79ae9e64-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab"/>
+                </mappedParameter>
+                <mappedParameter name="displayName" idRef="79ae9e5c-df5f-1004-84c6-a0f874d5f0ab">
+                    <parameter name="displayName" idRef="79ae9e5b-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab"/>
+                </mappedParameter>
+                <mappedParameter name="inputFile" idRef="79ae9e15-df5f-1004-84c6-a0f874d5f0ab">
+                    <parameter name="inputFile" idRef="79ae9e14-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab"/>
+                </mappedParameter>
+                <mappedParameter name="companyId" idRef="79ae9e5f-df5f-1004-84c6-a0f874d5f0ab">
+                    <parameter name="companyId" idRef="79ae9e5e-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab"/>
+                </mappedParameter>
+            </interfacemappings>
+        </mappings>
+        <intermediateobjects/>
+    </mappingsandintermediates>
+    <lookupdata>
+        <objectmap>
+            <parameter name="contactInfo" idRef="79ae9e67-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab" description="key"/>
+            <parameter name="contactInfo" idRef="79ae9e68-df5f-1004-84c6-a0f874d5f0ab" description="value"/>
+            <parameter name="outputFile" idRef="79ae9e17-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab" description="key"/>
+            <parameter name="outputFile" idRef="79ae9e18-df5f-1004-84c6-a0f874d5f0ab" description="value"/>
+            <parameter name="inputFile" idRef="79ae9e14-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab" description="key"/>
+            <parameter name="inputFile" idRef="79ae9e15-df5f-1004-84c6-a0f874d5f0ab" description="value"/>
+            <parameter name="companyId" idRef="79ae9e5e-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab" description="key"/>
+            <parameter name="companyId" idRef="79ae9e5f-df5f-1004-84c6-a0f874d5f0ab" description="value"/>
+            <parameter name="authToken" idRef="79ae9e64-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab" description="key"/>
+            <parameter name="authToken" idRef="79ae9e65-df5f-1004-84c6-a0f874d5f0ab" description="value"/>
+            <parameter name="expireDate" idRef="79ae9e6a-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab" description="key"/>
+            <parameter name="expireDate" idRef="79ae9e6b-df5f-1004-84c6-a0f874d5f0ab" description="value"/>
+            <parameter name="companyVPC" idRef="79ae9e73-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab" description="key"/>
+            <parameter name="companyVPC" idRef="79ae9e74-df5f-1004-84c6-a0f874d5f0ab" description="value"/>
+            <parameter name="displayName" idRef="79ae9e5b-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab" description="key"/>
+            <parameter name="displayName" idRef="79ae9e5c-df5f-1004-84c6-a0f874d5f0ab" description="value"/>
+            <parameter name="inputTemplate" idRef="79ae9e70-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab" description="key"/>
+            <parameter name="inputTemplate" idRef="79ae9e71-df5f-1004-84c6-a0f874d5f0ab" description="value"/>
+            <parameter name="email" idRef="79ae9e61-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab" description="key"/>
+            <parameter name="email" idRef="79ae9e62-df5f-1004-84c6-a0f874d5f0ab" description="value"/>
+            <parameter name="companyName" idRef="79ae9e6d-df5f-1004-84c6-a0f874d5f0ab" idModelRef="79ae9e02-df5f-1004-84c6-a0f874d5f0ab" description="key"/>
+            <parameter name="companyName" idRef="79ae9e6e-df5f-1004-84c6-a0f874d5f0ab" description="value"/>
+        </objectmap>
+        <viewobjectmap>
+            <parameter name="inputTemplate" idRef="79ae9e71-df5f-1004-84c6-a0f874d5f0ab" description="key"/>
+            <parameter name="inputTemplate" idRef="79ae9e72-df5f-1004-84c6-a0f874d5f0ab" description="value"/>
+            <parameter name="companyVPC" idRef="79ae9e74-df5f-1004-84c6-a0f874d5f0ab" description="key"/>
+            <parameter name="companyVPC" idRef="79ae9e75-df5f-1004-84c6-a0f874d5f0ab" description="value"/>
+            <parameter name="outputFile" idRef="79ae9e18-df5f-1004-84c6-a0f874d5f0ab" description="key"/>
+            <parameter name="outputFile" idRef="79ae9e19-df5f-1004-84c6-a0f874d5f0ab" description="value"/>
+            <parameter name="contactInfo" idRef="79ae9e68-df5f-1004-84c6-a0f874d5f0ab" description="key"/>
+            <parameter name="contactInfo" idRef="79ae9e69-df5f-1004-84c6-a0f874d5f0ab" description="value"/>
+            <parameter name="expireDate" idRef="79ae9e6b-df5f-1004-84c6-a0f874d5f0ab" description="key"/>
+            <parameter name="expireDate" idRef="79ae9e6c-df5f-1004-84c6-a0f874d5f0ab" description="value"/>
+            <parameter name="email" idRef="79ae9e62-df5f-1004-84c6-a0f874d5f0ab" description="key"/>
+            <parameter name="email" idRef="79ae9e63-df5f-1004-84c6-a0f874d5f0ab" description="value"/>
+            <parameter name="companyName" idRef="79ae9e6e-df5f-1004-84c6-a0f874d5f0ab" description="key"/>
+            <parameter name="companyName" idRef="79ae9e6f-df5f-1004-84c6-a0f874d5f0ab" description="value"/>
+            <parameter name="authToken" idRef="79ae9e65-df5f-1004-84c6-a0f874d5f0ab" description="key"/>
+            <parameter name="authToken" idRef="79ae9e66-df5f-1004-84c6-a0f874d5f0ab" description="value"/>
+            <parameter name="displayName" idRef="79ae9e5c-df5f-1004-84c6-a0f874d5f0ab" description="key"/>
+            <parameter name="displayName" idRef="79ae9e5d-df5f-1004-84c6-a0f874d5f0ab" description="value"/>
+            <parameter name="inputFile" idRef="79ae9e15-df5f-1004-84c6-a0f874d5f0ab" description="key"/>
+            <parameter name="inputFile" idRef="79ae9e16-df5f-1004-84c6-a0f874d5f0ab" description="value"/>
+            <parameter name="companyId" idRef="79ae9e5f-df5f-1004-84c6-a0f874d5f0ab" description="key"/>
+            <parameter name="companyId" idRef="79ae9e60-df5f-1004-84c6-a0f874d5f0ab" description="value"/>
+        </viewobjectmap>
+        <relationobjectmap/>
+    </lookupdata>
+</modelinterface>
